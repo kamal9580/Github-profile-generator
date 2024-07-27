@@ -53,7 +53,7 @@ export default function GithubCard({ user }) {
                     </div>
                     <div style={{ display: 'flex', padding: '20px', justifyContent: 'space-evenly' }}>
                         <a href={(twitter_username ? `https://twitter.com/${twitter_username}` : "")} target='_blank'>Twitter</a>
-                        {/* <a href={`https://bento.me/nileshkumarkamal`} target='_blank'>Portfolio</a> */}
+                        <a href={`https://bento.me/nileshkumarkamal`} target='_blank'>Portfolio</a>
                         <a href={html_url} target='_blank'>Github</a>
                     </div>
                 </div>
