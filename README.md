@@ -21,4 +21,4 @@ This project is a GitHub Profile Card Generator built using React and Recoil for
 -   **Recoil**: A state management library for React.
 -   **Axios**: A promise-based HTTP client for the browser and Node.js.
 
-## Screenshots
+
