@@ -22,9 +22,9 @@ export default function GithubCard({ user }) {
 
     return (
         <div style={{ width: '400px', height: '500px', border: '2px solid black' }}>
-            {/* <div className="coverPic" style={{ width: '400px', height: '150px', background: '#7df0f0' }}>
+            <div className="coverPic" style={{ width: '400px', height: '150px', background: '#7df0f0' }}>
                 <a href={html_url} target='_blank' style={{ position: 'relative', left: '150px' }}>Visit Profile</a>
-            </div> */}
+            </div>
 
             <img style={{ width: '150px', height: '150px', top: '-90px', borderRadius: "50%", position: 'relative' }} src={avatar_url} alt="" />
 
